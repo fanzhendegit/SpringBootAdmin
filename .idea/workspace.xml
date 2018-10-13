@@ -7,7 +7,7 @@
     <ignored path="$PROJECT_DIR$/admin-server-server/target/" />
     <ignored path="$PROJECT_DIR$/admin-server-client/target/" />
     <ignored path="$PROJECT_DIR$/admin-server-client/server-client-sdk/target/" />
-    <ignored path="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/target/" />
+    <ignored path="$PROJECT_DIR$/admin-server-Eureka/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/pom.xml">
+        <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
               <caret line="34" column="12" selection-start-line="27" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
@@ -32,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="ServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/java/com/kc/basic/admin/client/ServerApplication.java">
+        <entry file="file://$PROJECT_DIR$/admin-server-server/src/main/java/com/kc/basic/admin/client/ServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
@@ -41,7 +41,7 @@
         </entry>
       </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/admin-server-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
               <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
@@ -50,7 +50,7 @@
         </entry>
       </file>
       <file leaf-file-name="hello.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java">
+        <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -62,7 +62,7 @@
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/admin-server-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="185">
               <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
@@ -84,23 +84,23 @@
       <list>
         <option value="$PROJECT_DIR$/admin-server-client/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/client/sdk/ApplicationOne.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/java/com/kc/basic/server/client/ClientApplication.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/server/ApplicationOne.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/java/com/kc/basic/admin/client/ClientApplication.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ApplicationOne.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/java/com/kc/basic/admin/eureka/EurekaApplication.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/resources/application-peer2.properties" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/resources/application-peer1.properties" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/client/sdk/ApplicationOne.java" />
+        <option value="$PROJECT_DIR$/admin-server-server/src/main/java/com/kc/basic/server/client/ClientApplication.java" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/server/ApplicationOne.java" />
+        <option value="$PROJECT_DIR$/admin-server-client/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server-server/src/main/java/com/kc/basic/admin/client/ClientApplication.java" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ApplicationOne.java" />
+        <option value="$PROJECT_DIR$/admin-server-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server-Eureka/src/main/java/com/kc/basic/admin/eureka/EurekaApplication.java" />
+        <option value="$PROJECT_DIR$/admin-server-Eureka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/admin-server-Eureka/src/main/resources/application-peer2.properties" />
+        <option value="$PROJECT_DIR$/admin-server-Eureka/src/main/resources/application-peer1.properties" />
+        <option value="$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java" />
+        <option value="$PROJECT_DIR$/admin-server-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server-server/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -125,7 +125,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -471,7 +471,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java</url>
+          <url>file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -481,20 +481,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ClientApplication.java">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
@@ -504,32 +504,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/resources/log4j2.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-server/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/resources/log4j2.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-257" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-186">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/java/com/kc/basic/admin/eureka/EurekaApplication.java">
+    <entry file="file://$PROJECT_DIR$/admin-server-Eureka/src/main/java/com/kc/basic/admin/eureka/EurekaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -541,45 +541,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-Eureka/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/resources/application-peer2.properties">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/resources/application-peer2.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/resources/application-peer2.properties">
+    <entry file="file://$PROJECT_DIR$/admin-server-Eureka/src/main/resources/application-peer2.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
           <caret line="34" column="12" selection-start-line="27" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-Eureka/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/admin-server-Eureka/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/java/com/kc/basic/admin/client/ServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/admin-server-server/src/main/java/com/kc/basic/admin/client/ServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ClientApplication.java">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/ClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
@@ -589,28 +589,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-server/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/admin-server-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../basic-admin-server/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java">
+    <entry file="file://$PROJECT_DIR$/admin-server-client/server-client-sdk/src/main/java/com/kc/basic/admin/server/web/hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
